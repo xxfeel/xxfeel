@@ -1,5 +1,5 @@
 ### Hi there 👋
-![counter](IvanFilippov74.m.pipedream.net)
+![counter](m.pipedream.net)
 
 <!--
 **IvanFilippov74/IvanFilippov74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
