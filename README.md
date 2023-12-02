@@ -1,4 +1,10 @@
-### Hi there 👋 I'm
+### Hi there!! 
+I'm Ivan Filippov, my direction is backend development!!
+
+💻I have been working in the field of backend development since 2021.
+💡I'm looking for ideas to implement.
+🎯I set goals for myself and achieve them.
+🏈 I love traveling and active recreation.
 
 
 <!--
