@@ -1,7 +1,7 @@
 ### Hi there!! 
 I'm Ivan Filippov, my direction is backend development!!
 
-[![Gmail Badge](https://img.shields.io/badge/-chelyabinezzz@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:chelyabinezzz@gmail.com)](mailto:chelyabinezzz@gmail.com) [![Telegram Badge](https://img.shields.io/badge/-ivan_xfeel-blue?style=social&logo=telegram&link=https://t.me/ivan_xfeel)](https://t.me/ivan_xfeel)
+[![Gmail Badge](https://img.shields.io/badge/-chelyabinezzz@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:chelyabinezzz@gmail.com)](mailto:chelyabinezzz@gmail.com) [![Telegram Badge](https://img.shields.io/badge/-ivan_xfeel-blue?style=social&logo=telegram&link=https://t.me/ivan_xfeel)](https://t.me/ivan_xfeel) [![VK Badge](https://img.shields.io/badge/vk.com-xfeel-blue?logo=vk&labelColor=blue&color=grey&link=https://vk.com/xfeel)](https://vk.com/xfeel)
 
 💻I have been working in the field of backend development since 2021.<br>
 💡I'm looking for ideas to implement.<br>
